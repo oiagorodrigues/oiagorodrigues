@@ -30,7 +30,7 @@ I also write articles on [Medium.com](https://medium.com/@iagokv) and [DevTo](ht
 #### Better score and contributors:
 
 - 🔭 I’m currently working as a Frontend Developer on a Courses platform using the Vue ecossytem (Vue.js, Nuxt, Vue Router, Vuex)
-- 🌱 I’m currently learning more about Java, Spring Boot and React.
+- 🌱 I’m currently learning more about Java, Spring Boot, React and React Native.
 
 ### OpenSource projects that I contribute
 
