@@ -37,6 +37,11 @@ I also write articles on [Medium.com](https://medium.com/@iagokv) and [DevTo](ht
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oiagorodrigues&repo=nuxtjs.org&theme=vue)](https://github.com/nuxt/nuxtjs.org)
 
 
+### My workflows
+
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
+
 ### Languages I work with
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oiagorodrigues&theme=vue&langs_count=10&hide=objective-c,swift,php&layout=compact)](https://github.com/oiagorodrigues/github-readme-stats)
