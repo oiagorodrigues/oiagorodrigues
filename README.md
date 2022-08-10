@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋 I'm Iago Rodrigues
-### Software Developer from Brazil with 3+ years with Full Stack applications
+### Software Developer from Brazil with 5+ years with Frontend applications
 
 
 I also write articles on [Medium.com](https://medium.com/@iagokv) and [DevTo](https://dev.to/oiagorodrigues)
@@ -34,8 +34,8 @@ I also write articles on [Medium.com](https://medium.com/@iagokv) and [DevTo](ht
 #### Better score and contributors:
 
 
-- 🔭 I’m currently working as a Frontend Developer on a Courses platform using the Vue ecossytem (Vue.js, Nuxt, Vue Router, Vuex)
-- 🌱 I’m currently learning more about Java, Spring Boot, React and React Native.
+- 🔭 I’m currently working as a Frontend Developer on a health company using React (React 18, Hooks, React Query, Router Dom, Redux Tools, Material Ui, Chakra UI)
+- 🌱 I’m currently learning more about Java, Spring Boot, Nodejs, Nestjs, React Native and Flutter.
 
 
 ### OpenSource projects that I contribute
@@ -60,11 +60,13 @@ I also write articles on [Medium.com](https://medium.com/@iagokv) and [DevTo](ht
   <img align="center" alt="Iago Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Iago React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Iago Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+    <img align="center" alt="Iago Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Iago Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Iago Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Iago Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Iago Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Iago HandleBars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg">
+    <img align="center" alt="Iago MaterialUi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
   <img align="center" alt="Iago JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Iago XD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
   <img align="center" alt="Iago Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
@@ -77,6 +79,8 @@ I also write articles on [Medium.com](https://medium.com/@iagokv) and [DevTo](ht
 <div style="display: inline_block"><br>
   <img align="center" alt="Iago Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Iago Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Iago Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Iago Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Iago GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
   <img align="center" alt="Iago Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="Iago MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
