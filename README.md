@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋 I'm Iago Rodrigues
-### Software Developer from Brazil with 6+ years with Frontend applications
+### Software Developer from Brazil with 7+ years with Frontend applications
 
 
 I also write articles on [Medium.com](https://medium.com/@iagokv) and [DevTo](https://dev.to/oiagorodrigues)
