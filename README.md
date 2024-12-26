@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I also write articles on [Medium.com](https://medium.com/@iagokv) and [DevTo](https://dev.to/oiagorodrigues)
 
-![Iago's Github stats](https://github-readme-stats.vercel.app/api?username=oiagorodrigues&count_private=true&show_icons=true&theme=vue)
+![Iago's Github stats](https://github-readme-stats-oiagorodrigues.vercel.app/api?username=oiagorodrigues&count_private=true&show_icons=true&theme=vue)
 
 
 #### Social profiles:
@@ -41,13 +41,13 @@ I also write articles on [Medium.com](https://medium.com/@iagokv) and [DevTo](ht
 ### OpenSource projects that I contribute
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oiagorodrigues&repo=nuxtjs.org&theme=vue)](https://github.com/nuxt/nuxtjs.org)
+[![Readme Card](https://github-readme-stats-oiagorodrigues.vercel.app/api/pin/?username=oiagorodrigues&repo=nuxtjs.org&theme=vue)](https://github.com/nuxt/nuxtjs.org)
 
 
 ### Languages I work with
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oiagorodrigues&theme=vue&langs_count=10&hide=objective-c,swift,php&layout=compact)](https://github.com/oiagorodrigues/github-readme-stats)
+[![Top Langs](https://github-readme-stats-oiagorodrigues.vercel.app/api/top-langs/?username=oiagorodrigues&theme=vue&langs_count=10&hide=objective-c,swift,php&layout=compact)](https://github.com/oiagorodrigues/github-readme-stats)
 
 
 ### Frontend tools I work with
