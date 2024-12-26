@@ -34,8 +34,7 @@ I also write articles on [Medium.com](https://medium.com/@iagokv) and [DevTo](ht
 #### Better score and contributors:
 
 
-- 🔭 I’m currently working as a Frontend Developer on a health company using React (React 18, Hooks, React Query, Router Dom, Redux Tools, Material Ui, Chakra UI)
-- 🌱 I’m currently learning more about Java, Spring Boot, Nodejs, Nestjs, React Native and Flutter.
+- 🔭 I’m currently working as a Senior Frontend Engineer on a leading cannabis marketplace in the USA using Vue, Vue Query, Tailwind, Django, Github Actions, React Native.
 
 
 ### OpenSource projects that I contribute
