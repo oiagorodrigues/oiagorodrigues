@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋 I'm Iago Rodrigues
-### Software Developer from Brazil with 7+ years building scalable, accessible and maintanable web applications
+### Software Developer from Brazil with 8+ years building scalable, accessible and maintanable web applications
 
 
 I also write articles on [Medium.com](https://medium.com/@iagokv) and [DevTo](https://dev.to/oiagorodrigues)
@@ -22,14 +22,18 @@ I also write articles on [Medium.com](https://medium.com/@iagokv) and [DevTo](ht
 ![Iago's Github stats](https://github-readme-stats-oiagorodrigues.vercel.app/api?username=oiagorodrigues&count_private=true&show_icons=true&theme=vue)
 
 
+
 #### Social profiles:
+
+<div>
+  <a href="https://www.codementor.io/@oiagorodrigues?refer=badge"><img src="https://www.codementor.io/m-badges/oiagorodrigues/find-me-on-cm-b.svg" alt="Codementor badge"></a>
+</div>
 
 <div>
   <a href="https://www.linkedin.com/in/iago-rodrigues" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Iago Linkeding">
  </a>
 </div>
-
 
 #### Better score and contributors:
 
