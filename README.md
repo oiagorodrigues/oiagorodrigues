@@ -6,7 +6,6 @@
 <p>
   <a href="https://irtc.com.br"><strong>IRTC</strong></a> ·
   <a href="https://www.linkedin.com/in/iago-rodrigues/">LinkedIn</a> ·
-  <a href="#projetos-e-contribuições">Projetos</a> ·
   <a href="#artigos">Artigos</a> ·
   <a href="#contato">Contato</a>
 </p>
@@ -31,21 +30,13 @@ Participo do entendimento do problema, da arquitetura, da implementação e da v
 
 **[Traga o problema à IRTC](https://irtc.com.br).**
 
-## Projetos e contribuições
-
-| Trabalho | O que você encontra |
-|---|---|
-| [Contribuições ao Nuxt](https://github.com/nuxt/website-v2/pulls?q=is%3Apr+is%3Amerged+author%3Aoiagorodrigues) | Nove pull requests aceitos no site do Nuxt, com traduções para português brasileiro, documentação e ajustes de interface. |
-| [mcp-from-scratch](https://github.com/oiagorodrigues/mcp-from-scratch) | Estudo em TypeScript da implementação de um servidor para Model Context Protocol, usado na integração de ferramentas com aplicações de IA. |
-| [Portfólio interativo](https://github.com/oiagorodrigues/portfolio) | Projeto pessoal em React, TypeScript e React Three Fiber, com navegação em um ambiente 3D. |
-
 ## Tecnologias
 
-Minha base é JavaScript e TypeScript, com experiência em Vue, React e aplicações web.
+Trabalho com JavaScript e TypeScript, Node.js e PostgreSQL, além de Vue e React para aplicações web.
 
-`TypeScript` `JavaScript` `Vue` `React` `Tailwind CSS`
+`TypeScript` `Node.js` `PostgreSQL` `JavaScript` `Vue` `React` `Tailwind CSS`
 
-No trabalho de engenharia, também utilizo Node.js, NestJS, Django, GraphQL, PostgreSQL, MySQL e MongoDB. Para entrega e qualidade: Git, GitHub Actions, Docker e Jest.
+Também utilizo NestJS, Django, GraphQL, MySQL e MongoDB. Para entrega e qualidade: Git, GitHub Actions, Docker e Jest.
 
 ## Artigos
 
