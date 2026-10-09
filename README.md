@@ -1,128 +1,53 @@
-<!--
-**oiagorodrigues/oiagorodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg">
+  <img src="./assets/profile-header.svg" width="1200" alt="Iago Rodrigues, Founder &amp; Principal Engineer at IRTC. Cloud, Software &amp; AI Engineering. Belém, Pará, Brazil.">
+</picture>
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://irtc.com.br"><strong>IRTC</strong></a> ·
+  <a href="https://www.linkedin.com/in/iago-rodrigues/">LinkedIn</a> ·
+  <a href="#writing">Writing</a> ·
+  <a href="#contact">Contact</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
 
-## Hi there 👋 I'm Iago Rodrigues
-### Software Developer from Brazil with 8+ years building scalable, accessible and maintanable web applications
+I'm Iago, a software engineer and the founder of [IRTC](https://irtc.com.br). I have eight years of experience building web applications, a background as a Senior Frontend Engineer, and a degree in Information Systems.
 
+I'm based in Belém, Brazil. My work covers implementation, architecture, accessibility, and software maintenance. At IRTC, my initial focus is systems integration and business process automation. I'm also deepening my skills in AWS, software modernization, AI integrations, and agentic workflows.
 
-I also write articles on [Medium.com](https://medium.com/@iagokv) and [DevTo](https://dev.to/oiagorodrigues)
+## Engineering at IRTC
 
-![Iago's Github stats](https://github-readme-stats-oiagorodrigues.vercel.app/api?username=oiagorodrigues&count_private=true&show_icons=true&theme=vue)
+IRTC is a B2B engineering and technology company. Our work spans three areas:
 
+| Area | Focus |
+|---|---|
+| Cloud Engineering | Architecture, infrastructure, and modernization on AWS. |
+| Software Engineering | Systems integration, automation, and application development. |
+| AI Engineering | AI integrations and agentic workflows, with evaluation and human review. |
 
+I work from understanding the problem through architecture, implementation, and validation. Each project has a defined scope, dependencies, and acceptance criteria.
 
-#### Social profiles:
+**[Let's talk about your project](https://irtc.com.br).**
 
-<div>
-  <a href="https://www.codementor.io/@oiagorodrigues?refer=badge"><img src="https://www.codementor.io/m-badges/oiagorodrigues/find-me-on-cm-b.svg" alt="Codementor badge"></a>
-</div>
+## Technologies
 
-<div>
-  <a href="https://www.linkedin.com/in/iago-rodrigues" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Iago Linkeding">
- </a>
-</div>
+I work with TypeScript, Node.js, and PostgreSQL, alongside JavaScript, Vue, and React for web applications.
 
-#### Better score and contributors:
+`TypeScript` `Node.js` `PostgreSQL` `JavaScript` `Vue` `React` `Tailwind CSS`
 
+I also use NestJS, Django, GraphQL, MySQL, and MongoDB. For delivery and testing: Git, GitHub Actions, Docker, and Jest.
 
-- 🔭 I’m currently working as a Senior Frontend Engineer on a leading cannabis marketplace in the USA using Vue, Vue Query, Tailwind, Django, Github Actions, React Native.
+## Writing
 
+I write about software development on [DEV Community](https://dev.to/oiagorodrigues) and [Medium](https://medium.com/@iagokv).
 
-### OpenSource projects that I contribute
+## Outside work
 
+I enjoy video games, watching movies and TV with my family, and spending time with my two cats, Juliette and Luna.
 
-[![Readme Card](https://github-readme-stats-oiagorodrigues.vercel.app/api/pin/?username=oiagorodrigues&repo=nuxtjs.org&theme=vue)](https://github.com/nuxt/nuxtjs.org)
+## Contact
 
+For projects and partnerships, [visit IRTC and tell us what you're working on](https://irtc.com.br).
 
-### Languages I work with
-
-
-[![Top Langs](https://github-readme-stats-oiagorodrigues.vercel.app/api/top-langs/?username=oiagorodrigues&theme=vue&langs_count=10&hide=objective-c,swift,php&layout=compact)](https://github.com/oiagorodrigues/github-readme-stats)
-
-
-### Frontend tools I work with
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Iago HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Iago CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Iago Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Iago Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Iago React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Iago Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-    <img align="center" alt="Iago Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Iago Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Iago Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Iago Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Iago Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Iago HandleBars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg">
-    <img align="center" alt="Iago MaterialUi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
-  <img align="center" alt="Iago JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="Iago XD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
-  <img align="center" alt="Iago Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div><br>
-
-
-### Backend tools I work with
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Iago Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Iago Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Iago Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Iago Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Iago GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="Iago Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
-  <img align="center" alt="Iago MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Iago MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Iago PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div><br>
-
-
-### Tests tools I work with
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Iago Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-</div><br>
-
-
-### DevOps tools I work with
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Iago Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Iago Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Iago CircleCI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg">
-  <img align="center" alt="Iago Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Iago TRavis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg">
-</div><br>
-
-
-### Version control tools I work with
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Iago Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Iago GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Iago GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="Iago Bitbucket" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
-</div><br>
-
-### My workflows
-
-
-![Snake animation](https://github.com/oiagorodrigues/oiagorodrigues/blob/output/github-contribution-grid-snake.svg)
+For professional conversations, you can find me on [LinkedIn](https://www.linkedin.com/in/iago-rodrigues/).
