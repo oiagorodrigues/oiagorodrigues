@@ -1,53 +1,53 @@
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg">
-  <img src="./assets/profile-header.svg" width="1200" alt="Iago Rodrigues, Founder &amp; Principal Engineer na IRTC. Cloud, Software &amp; AI Engineering. Belém, Pará, Brasil.">
+  <img src="./assets/profile-header.svg" width="1200" alt="Iago Rodrigues, Founder &amp; Principal Engineer at IRTC. Cloud, Software &amp; AI Engineering. Belém, Pará, Brazil.">
 </picture>
 
 <p>
   <a href="https://irtc.com.br"><strong>IRTC</strong></a> ·
   <a href="https://www.linkedin.com/in/iago-rodrigues/">LinkedIn</a> ·
-  <a href="#artigos">Artigos</a> ·
-  <a href="#contato">Contato</a>
+  <a href="#writing">Writing</a> ·
+  <a href="#contact">Contact</a>
 </p>
 
-## Sobre mim
+## About me
 
-Sou Iago, engenheiro de software e fundador da [IRTC](https://irtc.com.br). Tenho oito anos de experiência no desenvolvimento de aplicações web, atuação como Senior Frontend Engineer e formação em Sistemas de Informação.
+I'm Iago, a software engineer and the founder of [IRTC](https://irtc.com.br). I have eight years of experience building web applications, a background as a Senior Frontend Engineer, and a degree in Information Systems.
 
-Vivo em Belém, no Pará. Meu trabalho combina implementação, arquitetura, acessibilidade e manutenção de sistemas. Na IRTC, o foco inicial é integrar sistemas e automatizar processos de negócio; também aprofundo minha atuação em AWS, modernização de software, integrações com IA e Agentic AI.
+I'm based in Belém, Brazil. My work covers implementation, architecture, accessibility, and software maintenance. At IRTC, my initial focus is systems integration and business process automation. I'm also deepening my skills in AWS, software modernization, AI integrations, and agentic workflows.
 
-## Engenharia na IRTC
+## Engineering at IRTC
 
-A IRTC é uma empresa de engenharia e tecnologia para outras empresas. Nosso trabalho se organiza em três frentes:
+IRTC is a B2B engineering and technology company. Our work spans three areas:
 
-| Frente | Trabalho |
+| Area | Focus |
 |---|---|
-| Cloud Engineering | Arquitetura, infraestrutura e modernização em AWS. |
-| Software Engineering | Integração entre sistemas, automação e evolução de aplicações. |
-| AI Engineering | Integrações com IA e fluxos com agentes, avaliação e revisão humana. |
+| Cloud Engineering | Architecture, infrastructure, and modernization on AWS. |
+| Software Engineering | Systems integration, automation, and application development. |
+| AI Engineering | AI integrations and agentic workflows, with evaluation and human review. |
 
-Participo do entendimento do problema, da arquitetura, da implementação e da validação. Cada projeto tem escopo, dependências e critérios de aceite definidos.
+I work from understanding the problem through architecture, implementation, and validation. Each project has a defined scope, dependencies, and acceptance criteria.
 
-**[Traga o problema à IRTC](https://irtc.com.br).**
+**[Let's talk about your project](https://irtc.com.br).**
 
-## Tecnologias
+## Technologies
 
-Trabalho com JavaScript e TypeScript, Node.js e PostgreSQL, além de Vue e React para aplicações web.
+I work with TypeScript, Node.js, and PostgreSQL, alongside JavaScript, Vue, and React for web applications.
 
 `TypeScript` `Node.js` `PostgreSQL` `JavaScript` `Vue` `React` `Tailwind CSS`
 
-Também utilizo NestJS, Django, GraphQL, MySQL e MongoDB. Para entrega e qualidade: Git, GitHub Actions, Docker e Jest.
+I also use NestJS, Django, GraphQL, MySQL, and MongoDB. For delivery and testing: Git, GitHub Actions, Docker, and Jest.
 
-## Artigos
+## Writing
 
-Escrevo sobre desenvolvimento de software no [DEV Community](https://dev.to/oiagorodrigues) e no [Medium](https://medium.com/@iagokv).
+I write about software development on [DEV Community](https://dev.to/oiagorodrigues) and [Medium](https://medium.com/@iagokv).
 
-## Fora do código
+## Outside work
 
-Gosto de videogame, filmes e séries com a família. Juliette e Luna, minhas duas gatas, também fazem parte da rotina.
+I enjoy video games, watching movies and TV with my family, and spending time with my two cats, Juliette and Luna.
 
-## Contato
+## Contact
 
-Para projetos e parcerias, [conheça a IRTC e traga o contexto do seu problema](https://irtc.com.br).
+For projects and partnerships, [visit IRTC and tell us what you're working on](https://irtc.com.br).
 
-Para contato profissional e troca de experiências: [LinkedIn](https://www.linkedin.com/in/iago-rodrigues/).
+For professional conversations, you can find me on [LinkedIn](https://www.linkedin.com/in/iago-rodrigues/).

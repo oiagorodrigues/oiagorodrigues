@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-<title id="title">Iago Rodrigues — Founder &amp; Principal Engineer na IRTC</title>
-<desc id="desc">Engenheiro de software em Belém, Pará, Brasil. IRTC: Cloud, Software &amp; AI Engineering.</desc>
+<title id="title">Iago Rodrigues — Founder &amp; Principal Engineer at IRTC</title>
+<desc id="desc">Software engineer based in Belém, Pará, Brazil. IRTC: Cloud, Software &amp; AI Engineering.</desc>
 <g font-family="Inter, Arial, sans-serif"><path d="M0 0H1200V340H0Z" fill="#002C32"/>
 <path d="M48 44H108" stroke="#F58F69" stroke-width="4"/>
-<text x="48" y="81" font-size="16" letter-spacing="2.5" fill="#83B8A4">ENGENHEIRO DE SOFTWARE</text>
+<text x="48" y="81" font-size="16" letter-spacing="2.5" fill="#83B8A4">SOFTWARE ENGINEER</text>
 <text x="44" y="166" font-size="73" font-weight="700" fill="#F5F4EF">Iago Rodrigues</text>
 <text x="48" y="216" font-size="26" fill="#F5F4EF">Founder &amp; Principal Engineer</text>
-<text x="49" y="265" font-size="19" fill="#83B8A4">Belém, Pará · Brasil</text>
+<text x="49" y="265" font-size="19" fill="#83B8A4">Belém, Pará · Brazil</text>
 <path d="M836 56V284" stroke="#83B8A4" stroke-opacity=".28"/>
 <rect x="885" y="67" width="266" height="132" rx="9" fill="#F5F4EF"/>
 <svg x="906" y="87" width="224" height="95" viewBox="0 0 517 219"><defs xmlns="http://www.w3.org/2000/svg"><linearGradient id="coral" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FB9D78"/><stop offset="1" stop-color="#F1815B"/></linearGradient></defs><g xmlns="http://www.w3.org/2000/svg" transform="translate(20 20)"><path d="M0 28 Q0 25 3 23 L47 0 V32 Q47 36 43 38 L0 63Z" fill="url(#coral)"/><path d="M0 76 L47 49 V162 Q47 179 30 179 H0Z" fill="#002C32"/><g fill="#002C32"><path d="M68 42H151C183 42 200 58 200 88C200 113 187 126 163 132L210 179H160L114 133H68V102H146C171 102 171 74 146 74H68Z"/><path d="M199 42H344L317 74H292V179H253V74H227Z"/><path d="M477 42H395C344 42 325 72 325 110C325 150 348 179 395 179H477V147H396C369 147 364 127 364 110C364 92 372 74 396 74H477Z"/></g></g></svg>
