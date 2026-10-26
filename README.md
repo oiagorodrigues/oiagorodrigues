@@ -3,40 +3,43 @@
   <img src="./assets/profile-header.svg" width="1200" alt="Iago Rodrigues, Founder &amp; Principal Engineer at IRTC. Cloud, Software &amp; AI Engineering. Belém, Pará, Brazil.">
 </picture>
 
-<p>
-  <a href="https://irtc.com.br"><strong>IRTC</strong></a> ·
-  <a href="https://www.linkedin.com/in/iago-rodrigues/">LinkedIn</a> ·
-  <a href="#writing">Writing</a> ·
-  <a href="#contact">Contact</a>
-</p>
+[English](README.md) · [Português](README.pt-BR.md)
+
+[IRTC](https://irtc.com.br/en) · [LinkedIn](https://www.linkedin.com/in/iago-rodrigues/) · [Writing](#writing) · [Contact](#contact)
 
 ## About me
 
-I'm Iago, a software engineer and the founder of [IRTC](https://irtc.com.br). I have eight years of experience building web applications, a background as a Senior Frontend Engineer, and a degree in Information Systems.
+I'm Iago, Founder & Principal Engineer at [IRTC](https://irtc.com.br/en), based in Belém, Brazil. I work with business and technology teams on systems integration, process automation, and software modernization.
 
-I'm based in Belém, Brazil. My work covers implementation, architecture, accessibility, and software maintenance. At IRTC, my initial focus is systems integration and business process automation. I'm also deepening my skills in AWS, software modernization, AI integrations, and agentic workflows.
+My initial focus at IRTC is a practical problem: information that has to be re-entered between sales, finance, and operations systems. We start with one workflow, identify exceptions and dependencies, and define a scope and acceptance criteria before proposing implementation.
+
+I have eight years of experience building web applications, a background as a Senior Frontend Engineer, and a degree in Information Systems. My professional experience includes individual contractor engagements. I attribute that work to my own role and the relevant engagement; IRTC projects have their own scope, delivery records, and client authorization.
 
 ## Engineering at IRTC
 
-IRTC is a B2B engineering and technology company. Our work spans three areas:
+IRTC is a B2B engineering partner working across Cloud, Software & AI Engineering:
 
-| Area | Focus |
+| Area | Decisions and work |
 |---|---|
-| Cloud Engineering | Architecture, infrastructure, and modernization on AWS. |
-| Software Engineering | Systems integration, automation, and application development. |
-| AI Engineering | AI integrations and agentic workflows, with evaluation and human review. |
+| Cloud Engineering | Assess AWS architecture, operating costs, and modernization priorities. |
+| Software Engineering | Connect systems, automate a defined process, and modernize software in manageable stages. |
+| AI Engineering | Evaluate AI for a specific task, including output quality, cost, permissions, and human review. |
 
-I work from understanding the problem through architecture, implementation, and validation. Each project has a defined scope, dependencies, and acceptance criteria.
+For an initial integration, we discuss one workflow between up to two systems. The proposal defines deliverables, dependencies, tests, documentation, and acceptance criteria. Scope and availability depend on the problem and confirmed delivery capacity.
 
-**[Let's talk about your project](https://irtc.com.br).**
+**[Tell us which process needs to work better](https://irtc.com.br/en/contact).**
 
 ## Technologies
 
-I work with TypeScript, Node.js, and PostgreSQL, alongside JavaScript, Vue, and React for web applications.
+I work with TypeScript, Node.js, and PostgreSQL, alongside JavaScript, Vue, and React for web applications. My work includes architecture, accessibility, implementation, and software maintenance.
 
 `TypeScript` `Node.js` `PostgreSQL` `JavaScript` `Vue` `React` `Tailwind CSS`
 
-I also use NestJS, Django, GraphQL, MySQL, and MongoDB. For delivery and testing: Git, GitHub Actions, Docker, and Jest.
+I also use NestJS, Django, GraphQL, MySQL, and MongoDB. For delivery and testing: Git, GitHub Actions, Docker, and Jest. I'm deepening my skills in AWS, software modernization, AI integrations, and agentic workflows.
+
+## Projects and attribution
+
+This profile contains my personal repositories and contributions. Company repositories live in [IrtcAI](https://github.com/IrtcAI). A demonstration or learning project is identified by its purpose and limitations; client results are published only with supporting evidence and permission.
 
 ## Writing
 
@@ -48,6 +51,6 @@ I enjoy video games, watching movies and TV with my family, and spending time wi
 
 ## Contact
 
-For projects and partnerships, [visit IRTC and tell us what you're working on](https://irtc.com.br).
+For IRTC projects and partnerships, [describe the process or system you want to improve](https://irtc.com.br/en/contact).
 
-For professional conversations, you can find me on [LinkedIn](https://www.linkedin.com/in/iago-rodrigues/).
+For conversations about my individual engineering experience, find me on [LinkedIn](https://www.linkedin.com/in/iago-rodrigues/).
